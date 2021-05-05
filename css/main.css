@@ -80,11 +80,11 @@ section {
   line-height: 1.4;
 }
 .btn-default {
-  text-color: white;
+  color: white;
   background-color: #faa541;
 }
 .btn-primary {
-  text-color: white;
+  color: white;
   background-color: #364147;
 }
 
@@ -92,7 +92,7 @@ section {
   display: block;
   padding: 6px 12px;
   border: solid 1px #a0a0a0;
-  text-color: #8598a2;
+  color: #8598a2;
   line-height: 1.4;
 }
 
