@@ -177,7 +177,7 @@ section {
   background-image: url("../img/hero.jpg");
   height: 400px;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 .hero h1 {
@@ -188,7 +188,7 @@ section {
   color: #faa541;
 }
 .hero h1,
-h2 {
+.hero h2 {
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
@@ -197,7 +197,7 @@ h2 {
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
-  margin: 0px 0px 10px;
+  margin: 0 0 10px;
 }
 
 .banner {
@@ -230,6 +230,7 @@ h2 {
 .category img {
   width: 100%;
 }
+
 .category-text {
   color: #364147;
   padding: 30px 0;
@@ -241,6 +242,7 @@ h2 {
   font-weight: 200;
   color: #faa541;
 }
+
 .category-text h3 {
   font-size: 30px;
   font-weight: 700;
